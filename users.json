@@ -1,0 +1,44 @@
+[
+    {
+        "username": "user",
+        "password": "scrypt:32768:8:1$aEgkk0z2q35PftsA$b59a43db4cb75d3c84b312a70c7c143f520f908a3545b96c0ca8b1520bf751fc251b39dcebdc007cf6620b6e36b991be73d1591b34b19dd9e9ab263a5034b2fc",
+        "email": "agathiy117@gmail.com",
+        "role": "user"
+    },
+    {
+        "username": "admin",
+        "password": "$2b$12$e4Q0slOqJslkXzkSmY45IeHwWQ9iGF2MwBlz1EzkUoPAZTksVnS3C",
+        "email": "admin@example.com",
+        "role": "admin"
+    },
+    {
+        "username": "user1",
+        "password": "pbkdf2:sha256:600000$v9ERG2GvRyYpIJZz$e243d1f4495ab63ead4b5b77b7d5bb27d5bb92e36ec7c4fe0224d8c5553923a5",
+        "email": "user@gmail.com",
+        "role": "user"
+    },
+    {
+        "username": "Thej",
+        "password": "pbkdf2:sha256:600000$jawIdKSxhQSPBYaE$2196f3dd4613612d2e9adfc532f59e01d58503415b3f56a6178350d38b8b22f6",
+        "email": "thejasvi001@gmail.com",
+        "role": "user"
+    },
+    {
+        "username": "agathi",
+        "password": "pbkdf2:sha256:600000$Ddg7vZEFc02OSSMr$aea29ecd801dea05cdd08113ae781289e5b91bf067cfd6d4462b7e69c4aede97",
+        "email": "agathi@gmail.com",
+        "role": "user"
+    },
+    {
+        "username": "Anan",
+        "password": "pbkdf2:sha256:600000$1arTr4VbbsNfFdPr$24fe7c8a62664823bc1a867f0d81db6f8ee226e785140e3469277bce866c973e",
+        "email": "anan@gmail.com",
+        "role": "user"
+    },
+    {
+        "username": "t",
+        "password": "pbkdf2:sha256:600000$W8FtP4hqJwS3nqn9$02755a8efa09ed7d22001ca68aac4347d91bfe894460c5f8b003fb2e87c03eca",
+        "email": "thej@gmail.com",
+        "role": "user"
+    }
+]
